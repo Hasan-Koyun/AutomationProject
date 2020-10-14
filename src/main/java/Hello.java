@@ -7,5 +7,7 @@ public class Hello {
         // I am ready to commit this
 
 
+        // bir degisiklik daha
+        //how to use git h
     }
 }
